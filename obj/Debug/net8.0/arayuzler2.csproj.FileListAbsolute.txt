@@ -1,0 +1,14 @@
+c:\Users\defeatedbynone\Desktop\cs#\arayuzler2\bin\Debug\net8.0\arayuzler2.exe
+c:\Users\defeatedbynone\Desktop\cs#\arayuzler2\bin\Debug\net8.0\arayuzler2.deps.json
+c:\Users\defeatedbynone\Desktop\cs#\arayuzler2\bin\Debug\net8.0\arayuzler2.runtimeconfig.json
+c:\Users\defeatedbynone\Desktop\cs#\arayuzler2\bin\Debug\net8.0\arayuzler2.dll
+c:\Users\defeatedbynone\Desktop\cs#\arayuzler2\bin\Debug\net8.0\arayuzler2.pdb
+c:\Users\defeatedbynone\Desktop\cs#\arayuzler2\obj\Debug\net8.0\arayuzler2.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\defeatedbynone\Desktop\cs#\arayuzler2\obj\Debug\net8.0\arayuzler2.AssemblyInfoInputs.cache
+c:\Users\defeatedbynone\Desktop\cs#\arayuzler2\obj\Debug\net8.0\arayuzler2.AssemblyInfo.cs
+c:\Users\defeatedbynone\Desktop\cs#\arayuzler2\obj\Debug\net8.0\arayuzler2.csproj.CoreCompileInputs.cache
+c:\Users\defeatedbynone\Desktop\cs#\arayuzler2\obj\Debug\net8.0\arayuzler2.dll
+c:\Users\defeatedbynone\Desktop\cs#\arayuzler2\obj\Debug\net8.0\refint\arayuzler2.dll
+c:\Users\defeatedbynone\Desktop\cs#\arayuzler2\obj\Debug\net8.0\arayuzler2.pdb
+c:\Users\defeatedbynone\Desktop\cs#\arayuzler2\obj\Debug\net8.0\arayuzler2.genruntimeconfig.cache
+c:\Users\defeatedbynone\Desktop\cs#\arayuzler2\obj\Debug\net8.0\ref\arayuzler2.dll
